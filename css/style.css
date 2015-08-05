@@ -1,0 +1,11 @@
+.wppb-bookmarks {}
+.wppb-bookmark { margin-bottom: 20px; }
+.wppb-header {}
+.wppb-title { font-size: 110%; }
+.wppb-description { }
+.wppb-tags { }
+.wppb-tag { opacity: .66; }
+.wppb-tag:hover { opacity: 1; }
+.wppb-footer { font-size: 90% }
+.wppb-date {}
+.wppb-user {}
